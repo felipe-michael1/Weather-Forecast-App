@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'corsheaders',
-    'clima',  # ← adicione isso aqui
+    'clima',  
 ]
 
 MIDDLEWARE = [
