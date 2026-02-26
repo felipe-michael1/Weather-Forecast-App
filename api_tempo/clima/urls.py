@@ -1,3 +1,7 @@
+"""
+This is a local url to Weather. Return the Weather APis
+"""
+
 from django.urls import path
 from .views import city_weather, get_cities, weather
 

@@ -16,3 +16,4 @@ tempo/build/
 .idea/
 *.log
 .DS_Store
+venv/
